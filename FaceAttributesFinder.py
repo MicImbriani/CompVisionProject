@@ -1,10 +1,10 @@
+#IMPORTS
 from imutils import face_utils
 import numpy as np
 import argparse
 import imutils
 import dlib
 import cv2
-
 
 # Constructs the argument parser and parses the arguments
 ap = argparse.ArgumentParser()
@@ -26,7 +26,7 @@ image = imutils.resize(image, width=1500)
 gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 
 # detect faces in the grayscale image
-rects = detector(gray, 5)
+rects = detector(gray, 1)
 
 
 #Loops over each face in the detection
