@@ -16,10 +16,10 @@ To apply the program on your own set of pictures, follow these steps:
 
 
 # Dependencies needed:
-dlib
-cv2
-os
-datetime
-argparse
-numpy
-imutils (folder provided with download)
+1) dlib
+2) cv2
+3) os
+4) datetime
+5) argparse
+6) numpy
+7) imutils (folder provided with download)
