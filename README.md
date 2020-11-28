@@ -13,3 +13,13 @@ To apply the program on your own set of pictures, follow these steps:
 4) type "python DriverFile.py -p "shape_predictor_68_face_landmarks.dat" -d "Input"  -f "Output"
 5) The processed images should appear in the "Output" folder
 
+
+
+# Dependencies needed:
+dlib
+cv2
+os
+datetime
+argparse
+numpy
+imutils (folder provided with download)
