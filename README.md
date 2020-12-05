@@ -23,3 +23,7 @@ To apply the program on your own set of pictures, follow these steps:
 5) argparse
 6) numpy
 7) imutils (folder provided with download)
+
+
+
+# The Computer Vision model has been developed by PhD Adrian Rosebrock with Caffe DL framework.
