@@ -1,8 +1,9 @@
+# _[COMPLETED]_
+
 # Daily Picture Stabilisation
 
 Computer Vision based software created for automising the stabilisation of my own face pictures, with the aim of creating a final slideshow of them.
 
-![PicAday](https://user-images.githubusercontent.com/67190150/115866828-2a4de480-a432-11eb-84a1-afb8c9b46939.png)
 
 Inspired by the idea of this video (One Picture Every Day):
 https://www.youtube.com/watch?v=65nfbW-27ps
