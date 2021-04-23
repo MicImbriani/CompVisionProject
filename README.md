@@ -4,7 +4,7 @@
 
 Computer Vision based software created for automising the stabilisation of my own face pictures, with the aim of creating a final slideshow of them.
 
-Inspired by the idea of this video (One Picture Every Day):
+Inspired by the idea of this video (AGE 12 TO MARRIED – I Took A Photo Every Day):<br>
 https://www.youtube.com/watch?v=65nfbW-27ps
 
 
