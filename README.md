@@ -4,10 +4,11 @@
 
 Computer Vision based software created for automising the stabilisation of my own face pictures, with the aim of creating a final slideshow of them.
 
-
 Inspired by the idea of this video (One Picture Every Day):
 https://www.youtube.com/watch?v=65nfbW-27ps
 
+
+![PicAday (1)](https://user-images.githubusercontent.com/67190150/115867058-78fb7e80-a432-11eb-804f-9ec9f5135dc2.png)
 
 To apply the program on your own set of pictures, follow these steps:
 1) Delete all the current pictures in "Input" and "Output" folder.
